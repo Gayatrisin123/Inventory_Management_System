@@ -15,3 +15,20 @@ Search & Filter (optional stretch) – quickly locate items
 Responsive UI – works on mobile, tablet, and desktop
 
 Docker‑ready (optional) – ship the whole stack with one command
+
+🧰 Tech Stack
+Frontend
+
+React
+
+Axios
+
+HTML5, CSS3 (or Tailwind CSS)
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB with Mongoose
