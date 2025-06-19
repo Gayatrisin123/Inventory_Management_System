@@ -1,4 +1,4 @@
-🛒 Inventory Management System
+# 🛒 Inventory Management System
 
 A full‑stack inventory management application built with React (frontend) and Node.js + Express (backend), powered by MongoDB for data persistence. It lets you create, read, update, and delete (CRUD) product records and track stock levels in real‑time.
 
