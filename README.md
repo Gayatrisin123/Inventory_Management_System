@@ -1,34 +1,26 @@
 # 🛒 Inventory Management System
 
-A full‑stack inventory management application built with React (frontend) and Node.js + Express (backend), powered by MongoDB for data persistence. It lets you create, read, update, and delete (CRUD) product records and track stock levels in real‑time.
+# 📦 Inventory Management System
 
-✨ Features
+An efficient and user-friendly Inventory Management System to track, manage, and control stock levels, orders, sales, and deliveries in real-time. Designed for businesses to streamline their inventory processes and improve operational accuracy.
 
-Item Catalogue – add products with name, quantity, and price
+## 🚀 Features
 
-Real‑Time Updates – instant UI refresh after any CRUD operation
+- 📋 Add, update, and delete inventory items
+- 🔍 Real-time inventory search and filter
+- 📦 Track stock quantity and availability
+- 📈 View reports and analytics
+- 🛠️ Role-based access control (Admin/User)
+- 📁 RESTful API integration
+- 💾 Persistent data storage using MongoDB
 
-RESTful API – clean JSON endpoints under /api/items
+## 🛠️ Tech Stack
 
-Search & Filter (optional stretch) – quickly locate items
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB & Mongoose
+- **Runtime Environment:** Node.js
+- **Package Manager:** Yarn / npm
 
-Responsive UI – works on mobile, tablet, and desktop
-
-Docker‑ready (optional) – ship the whole stack with one command
-
-🧰 Tech Stack
-Frontend
-
-React
-
-Axios
-
-HTML5, CSS3 (or Tailwind CSS)
-
-Backend
-
-Node.js
-
-Express.js
 
 MongoDB with Mongoose
