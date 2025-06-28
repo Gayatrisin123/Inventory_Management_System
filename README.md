@@ -4,7 +4,7 @@
 
 An efficient and user-friendly Inventory Management System to track, manage, and control stock levels, orders, sales, and deliveries in real-time. Designed for businesses to streamline their inventory processes and improve operational accuracy.
 
-you can visit it here ()
+you can visit it here (https://github.com/Gayatrisin123/Inventory_Management_System)
 
 ## 🚀 Features
 
